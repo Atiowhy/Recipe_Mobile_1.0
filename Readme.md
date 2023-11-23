@@ -116,8 +116,6 @@ if you want to login, without register
 email: guest@gmail.com
 password: 123456
 
-```
-
 <!-- ## ScreenShoot Project
 | Login Screen | Register Screen | Activate Screen | Forgot Screen |
 | :---: | :---: | :---: | :---: |
@@ -132,11 +130,14 @@ password: 123456
 |![Input Menu Screen](https://i.ibb.co/yPhN2Jh/1696471229974.jpg)|![Detail Menu Screen](https://i.ibb.co/8YN4bnn/1696471229957.jpg)|![Profile Screen](https://i.ibb.co/J3wjXJX/1696471230084.jpg)|![Update Profile Screen](https://i.ibb.co/CMBdrCx/Screenshot-2023-10-05-10-33-50-289-com-recipe.jpg)| -->
 
 ## Related Project
+
 You can visit my github link related to the project:
+
 - **[Recipe Web App](https://github.com/Atiowhy/Recipe_Web_1.0)**
 - **[Recipe API](https://github.com/Atiowhy/Recipe_API_1.0)**
 
-##  Contact
+## Contact
+
 You can reach me on:
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiowahyudi02@gmail.com)
@@ -153,4 +154,7 @@ Contributions are the cornerstone of the open source community, turning it into 
 3. Commit your Changes (`git commit -m 'Add amazing feature'`)
 4. Push to the Branch (`git push origin feature/yourbranch`)
 5. Open a Pull Request
+
+```
+
 ```
