@@ -1,13 +1,26 @@
 # Recipe App Mobile
 
-<div align="center">
-<a href="https://github.com/mahardhikap/RecipeMobileApp">
-    <img src="https://i.ibb.co/ZcsX3g3/fix.png" alt="Logo" width="150" height="150">
-</a>
-<p style="text-align: center;">
-    <span style="font-weight: bold; font-size: 30px; color: #EFC81A;">Mama Recipe</span>
+<p align="center">
+  <a href="https://github.com/ariffebri22/RecipeAPIV2.2">
+    <img src="https://i.postimg.cc/JnsbMGwj/mamarecipe-logo.png" alt="Logo" width="150" height="180">
+  </a>
+
+  <h3 align="center">Mama Recipe</h3>
+
+  <p align="center">
+    Discover Recipe & Delicious Food.
+    <br/>
+    <br/>
+    <a href="https://github.com/Atiowhy/Recipe_Mobile_1.0"><strong>Explore My docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/Atiowhy/Recipe_Mobile_1.0">View Demo</a>
+    .
+    <a href="https://github.com/Atiowhy/Recipe_Mobile_1.0/issues">Report Bug</a>
+    .
+    <a href="https://github.com/Atiowhy/Recipe_Mobile_1.0/issues">Request Feature</a>
+  </p>
 </p>
-</div>
 
 ## Table of Contents
 
