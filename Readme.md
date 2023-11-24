@@ -140,7 +140,7 @@ password: 123456
 | ![Home Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/homeApp_twqyeb.jpg) | ![Search Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811381/searchApp_gfjy3r.jpg) | ![My Menu Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811381/myRecipeApp_pizxao.jpg) |
 
 |                                            Input Menu Screen                                             |                                                                                                        | Profile Screen |
-| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | -------------- |
+| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 | ![Input Menu Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/AddRecipe_qx7v6g.jpg) | ![Profile Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/profileApp_nkysp8.jpg) |
 
 ## Related Project
