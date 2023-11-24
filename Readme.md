@@ -129,18 +129,19 @@ if you want to login, without register
 email: guest@gmail.com
 password: 123456
 
-<!-- ## ScreenShoot Project
-| Login Screen | Register Screen | Activate Screen | Forgot Screen |
-| :---: | :---: | :---: | :---: |
-|![Login Screen](https://i.ibb.co/4RFFMpp/Screenshot-2023-10-05-08-29-58-736-com-recipe.jpg)|![Register Screen](https://i.ibb.co/VYLHBG4/newregister.jpg)|![Activate Screen](https://i.ibb.co/2YqZbxz/Screenshot-2023-10-05-08-30-11-028-com-recipe.jpg)|![Forgot Screen](https://i.ibb.co/JxxTmwH/Screenshot-2023-10-05-08-30-14-533-com-recipe.jpg)|
+## ScreenShoot Project
 
-| Splash Screen | Home Screen | Search Screen | My Menu Screen |
-| :---: | :---: | :---: | :---: |
-|![Splash Screen](https://i.ibb.co/VVwY2Wq/Screenshot-2023-10-05-08-29-36-212-com-recipe.jpg)|![Home Screen](https://i.ibb.co/tPs8gvc/1696471230121.jpg)|![Search Screen](https://i.ibb.co/0sZPdbx/1696471229941.jpg)|![My Menu Screen](https://i.ibb.co/q5Qhmk7/Screenshot-2023-10-05-10-27-25-538-com-recipe.jpg)|
+|                                            Login Screen                                            |                                             Register Screen                                              |
+| :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| ![Login Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/loginApp_lwpwm3.jpg) | ![Register Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/registerApp_qq9hcw.jpg) |
 
-| Input Menu Screen | Detail Menu Screen | Profile Screen | Update Profile Screen |
-| :---: | :---: | :---: | :---: |
-|![Input Menu Screen](https://i.ibb.co/yPhN2Jh/1696471229974.jpg)|![Detail Menu Screen](https://i.ibb.co/8YN4bnn/1696471229957.jpg)|![Profile Screen](https://i.ibb.co/J3wjXJX/1696471230084.jpg)|![Update Profile Screen](https://i.ibb.co/CMBdrCx/Screenshot-2023-10-05-10-33-50-289-com-recipe.jpg)| -->
+|                                           Home Screen                                            |                                            Search Screen                                             |                                             My Menu Screen                                              |
+| :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| ![Home Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/homeApp_twqyeb.jpg) | ![Search Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811381/searchApp_gfjy3r.jpg) | ![My Menu Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811381/myRecipeApp_pizxao.jpg) |
+
+|                                            Input Menu Screen                                             |                                                                                                        | Profile Screen |
+| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | -------------- |
+| ![Input Menu Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/AddRecipe_qx7v6g.jpg) | ![Profile Screen](https://res.cloudinary.com/dvk5zscth/image/upload/v1700811380/profileApp_nkysp8.jpg) |
 
 ## Related Project
 
